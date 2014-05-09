@@ -1,0 +1,34 @@
+NOTE: to my knowedge this has only been compiled with VC++4 with DXSDK7.
+
+to compile:
+
+put
+3dgm.h
+Direct3D.h
+into your project folder
+
+put
+d3dtextr.h
+d3dutil.h
+d3dmath.h
+d3dfile.h
+from the D3DFrame that comes with DirectX7 SDK into your project folder
+
+insert
+d3dtextr.cpp
+d3dutil.cpp
+d3dmath.cpp
+d3dfile.cpp
+for the D3DFrame that comes with DirectX7 SDK into your project
+
+insert
+ddraw.lib
+dxguid.lib
+d3dim.lib
+d3dxof.lib
+from the DirectX7+ SDK into your project
+
+insert
+3dgm.cpp
+Direct3D.cpp
+into your project
