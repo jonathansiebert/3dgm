@@ -1,4 +1,4 @@
-NOTE: to my knowedge this has only been compiled with VC++4 with DXSDK7.
+NOTE: to my knowledge this has only been compiled with VC++4 with DXSDK7.
 
 to compile:
 
